@@ -116,8 +116,8 @@ The dashboard includes:
 
 ```
 ├── Bank_Churn_Dashboard_Ifeoma.xlsx   # Full Excel workbook (5 sheets)
-├── README.md                           # This file
-└── dashboard_screenshot.png            # Dashboard preview image (add after screenshotting)
+├── README.md                          # This file
+└── Dashboard_Screeshot.png            # Executive dashboard preview
 ```
 
 ---
