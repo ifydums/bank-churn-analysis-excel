@@ -83,7 +83,7 @@ Inactive members churn at a significantly higher rate than active members.
 
 ## 📈 Dashboard Preview
 
-> ![Dashboard](Dashboard _Screeshot.png)
+> ![Dashboard](Dashboard_Screeshot.png)
 The dashboard includes:
 - **4 KPI Cards** — Total Customers, Churned, Retained, Churn Rate
 - **5 Charts** — Churn by Country, Age Group, Products, Gender (Pie), Active Status
